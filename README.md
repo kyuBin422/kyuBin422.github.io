@@ -22,4 +22,8 @@ Thesis: CuraEngine Aanalysis and Reconstruction
 Advisor: Professor [Sijia Yu](https://www.smee.uestc.edu.cn/info/1177/8369.htm)
 
 ### Research
+#### Interest
+Probability Model
+#### Paper
+Machine Learning
 Yu, B. A Deep Belief Network and Dempster-Shafer Theory Multiclassifier for Reliability of Wind Turbine System. The 10th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering. [[Code]](https://github.com/kyuBin422/DBN-DS-Multiclassifier)[[PDF]](https://drive.google.com/file/d/11ZKaIRoNQ6FFBc5W5U5qzgpTDDsowxj2/view)
