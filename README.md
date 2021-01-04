@@ -1,6 +1,3 @@
-## Welcome to Bin Yu Personal Page
-
-
 <img src="Image.jpg" width="50%" height="50%">
 
 Bin Yu 于滨
