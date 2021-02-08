@@ -17,4 +17,4 @@ Advisor: Associate Professor [Sijia Yu](https://www.smee.uestc.edu.cn/info/1177/
 Probability Model\
 Machine Learning
 #### Pulications
-<ins>Yu,B</ins>. A Deep Belief Network and Dempster-Shafer Theory Multiclassifier for Reliability of Wind Turbine System. The 10th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering. [[Code]](https://github.com/kyuBin422/DBN-DS-Multiclassifier)[[PDF]](https://drive.google.com/file/d/11ZKaIRoNQ6FFBc5W5U5qzgpTDDsowxj2/view)
+<ins>Yu,B</ins>. A Deep Belief Network and Dempster-Shafer Theory Multiclassifier for Reliability of Wind Turbine System. The 10th International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering. [[Code]](https://github.com/kyuBin422/DBN-DS-Multiclassifier)[[Link]](https://iopscience.iop.org/article/10.1088/1757-899X/1043/3/032057)
