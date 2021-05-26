@@ -1,9 +1,3 @@
-Bin Yu 于滨\
-Master Candidate\
-Department of Eletrical and Computer Engineering\
-University of Massachusetts Amherst\
-Email: biny at umass dot edu\
-Long Introduction is [Here](Resume_Bin-Yu_PDF.pdf)
 ### Education
 M.S. , Department of Electrical and Computer Engineering, University of Massachusetts , Massachusetts , US , Jan. 2020 - Present
 
