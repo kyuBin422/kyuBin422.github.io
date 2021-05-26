@@ -1,5 +1,3 @@
-<img src="Image.jpg" width="50%" height="50%">
-
 Bin Yu 于滨\
 Master Candidate\
 Department of Eletrical and Computer Engineering\
