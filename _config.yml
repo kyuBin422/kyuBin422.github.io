@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
+
 title: Bin Yu Personal Page
+show_downloads: false
+logo: Image.jpg
+description: Welcome to Bin Yu personal site. Here is my <a href="Resume_Bin-Yu_PDF.pdf">CV (2021)</a>.
