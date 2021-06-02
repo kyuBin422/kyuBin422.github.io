@@ -1,3 +1,5 @@
+### Biography
+Currently, I am a Electrical and Computer Engineering second year master student in Umass Amherst. In the 2021 fall, I will join the Institute of Operations Research and Analytics National University of Singapore as a PhD student.
 ### Education
 M.S. , Department of Electrical and Computer Engineering, University of Massachusetts , Massachusetts , US , Jan. 2020 - Present
 
