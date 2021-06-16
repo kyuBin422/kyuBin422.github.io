@@ -14,5 +14,7 @@ Probability Model\
 Machine Learning
 #### Publications
 <strong>Yu, B</strong>. (2021). A Deep Belief Network and Dempster-Shafer Theory Multiclassifier for Reliability of Wind Turbine System. In IOP Conference Series: Materials Science and Engineering (Vol. 1043, No. 3, p. 032057). IOP Publishing.[[Code]](https://github.com/kyuBin422/DBN-DS-Multiclassifier)[[Link]](https://iopscience.iop.org/article/10.1088/1757-899X/1043/3/032057)
+### AWARD
+NUS Research Scholarship
 ### SERVICE
 Facilicator, Moving Together 2020 Conference, Umass Transportation Center, Nov. 2020
