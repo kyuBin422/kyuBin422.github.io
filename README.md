@@ -1,11 +1,13 @@
 ### BIOGRAPHY
-Currently, I am a Electrical and Computer Engineering second year master student in Umass Amherst. In the 2021 fall, I will join the Institute of Operations Research and Analytics National University of Singapore as a PhD student.
-#### Contact
-biny AT umass DOT edu
+Currently, I am a first year PhD student [@ IORA NUS](https://iora.nus.edu.sg/). Prior to this, I obtain the ECE master Degree from Umass Amherst and IE bachelor degree from UESTC, in 2021, 2019 respectively.
+#### Email
+binyu AT u.nus.edu
 ### EDUCATION
-M.S. , Department of Electrical and Computer Engineering, University of Massachusetts Amherst, US, Jan 2020 - Present
+PhD, Institute of Operations Research and Analytics, National University of Singapore, SG, Aug 2021-Present
 
-B.Eng. , Department of Industrial Engineering, University of Electronic Science and Technology of China, PR China, Sep 2015 - Aug 2019\
+MS, Department of Electrical and Computer Engineering, University of Massachusetts Amherst, US, Jan 2020 - Aug 2021
+
+BEng. , Department of Industrial Engineering, University of Electronic Science and Technology of China, PR China, Sep 2015 - Aug 2019\
 Thesis: CuraEngine Aanalysis and Reconstruction\
 Advisor: Associate Professor [Sijia Yu](https://www.smee.uestc.edu.cn/info/1177/8369.htm)
 ### RESEARCH
